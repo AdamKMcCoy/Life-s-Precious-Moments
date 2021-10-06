@@ -13,7 +13,7 @@ You dont't have to delete pic's just becouse you dont have space for them and yo
 
 Everything
 
-# What makes your project stand out? If your project has a lot of features, consider adding a "Features" section and listing them here.
+# What makes your project stand out? If your project has a lot of features
 
 It is going to be a semi private photo gallery
 
@@ -22,6 +22,10 @@ It is going to be a semi private photo gallery
 Stores pictuers and you can share them
 
 # Why you used the technologies you used,
+
+
+
+# Features section 
 
 
 
