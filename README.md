@@ -9,19 +9,19 @@ Becouse I watched my wife delete pictuers of my kids
 
 You dont't have to delete pic's just becouse you dont have space for them and you can share them with family or frends over a safe network 
 
-# What did you learn?
+# What did I learn?
 
 Everything
 
-# What makes your project stand out? If your project has a lot of features
+# What makes my project stand out?
 
 It is going to be a semi private photo gallery
 
-# What your application does,
+# What my application does,
 
 Stores pictuers and you can share them
 
-# Why you used the technologies you used,
+# Technologies 
 
 
 
@@ -29,19 +29,19 @@ Stores pictuers and you can share them
 
 
 
-# Some of the challenges you faced and features you hope to implement in the future.
+# Some of the challenges I faced and features I hope to implement in the future.
 
 
 
-# Add a Table of Contents (Optional)
+# Table of Contents 
 
 
 
-# How to Install Your Project
+# How to Install my Project
 
 
 
-# How to Use Your Project
+# How to Use my Project
 
 
 
@@ -49,7 +49,7 @@ Stores pictuers and you can share them
 
    Adam McCoy  https://github.com/AdamKMcCoy/Life-s-Precious-Moments
 
-# List the License
+# License
 
  MIT License
 
