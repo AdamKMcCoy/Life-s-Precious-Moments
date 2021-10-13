@@ -1,12 +1,12 @@
 @font-face {
   font-family: 'webflow-icons';
-  src: url("data:application/x-font-ttf;charset=utf-8;base64,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") format('truetype');
+  src: url("data:application x-font-ttf;charset=utf-8;base64,AAEAAAALAIAAAwAwT1MvMg8SBiUAAAC8AAAAYGNtYXDpP+a4AAABHAAAAFxnYXNwAAAAEAAAAXgAAAAIZ2x5ZmhS2XEAAAGAAAADHGhlYWQTFw3HAAAEnAAAADZoaGVhCXYFgQAABNQAAAAkaG10eCe4A1oAAAT4AAAAMGxvY2EDtALGAAAFKAAAABptYXhwABAAPgAABUQAAAAgbmFtZSoCsMsAAAVkAAABznBvc3QAAwAAAAAHNAAAACAAAwP4AZAABQAAApkCzAAAAI8CmQLMAAAB6wAzAQkAAAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAAAAAAAABAAADpAwPA 8AAQAPAAEAAAAABAAAAAAAAAAAAAAAgAAAAAAADAAAAAwAAABwAAQADAAAAHAADAAEAAAAcAAQAQAAAAAwACAACAAQAAQAg5gPpA  9  8AAAAAACDmAOkA  3  wAB +MaBBcIAAMAAQAAAAAAAAAAAAAAAAABAAH  wAPAAEAAAAAAAAAAAACAAA3OQEAAAAAAQAAAAAAAAAAAAIAADc5AQAAAAABAAAAAAAAAAAAAgAANzkBAAAAAAEBIAAAAyADgAAFAAAJAQcJARcDIP5AQAGA oBAAcABwED+gP6AQAABAOAAAALgA4AABQAAEwEXCQEH4AHAQP6AAYBAAcABwED+gP6AQAAAAwDAAOADQALAAA8AHwAvAAABISIGHQEUFjMhMjY9ATQmByEiBh0BFBYzITI2PQE0JgchIgYdARQWMyEyNj0BNCYDIP3ADRMTDQJADRMTDf3ADRMTDQJADRMTDf3ADRMTDQJADRMTAsATDSANExMNIA0TwBMNIA0TEw0gDRPAEw0gDRMTDSANEwAAAAABAJ0AtAOBApUABQAACQIHCQEDJP7r upcAXEBcgKU usBFVz+fAGEAAAAAAL  f+9BAMDwwAEAAkAABcBJwEXAwE3AQdpA5ps GZsbAOabPxmbEMDmmz8ZmwDmvxmbAOabAAAAgAA 8AEAAPAAB0AOwAABSInLgEnJjU0Nz4BNzYzMTIXHgEXFhUUBw4BBwYjNTI3PgE3NjU0Jy4BJyYjMSIHDgEHBhUUFx4BFxYzAgBqXV6LKCgoKIteXWpqXV6LKCgoKIteXWpVSktvICEhIG9LSlVVSktvICEhIG9LSlVAKCiLXl1qal1eiygoKCiLXl1qal1eiygoZiEgb0tKVVVKS28gISEgb0tKVVVKS28gIQABAAABwAIAA8AAEgAAEzQ3PgE3NjMxFSIHDgEHBhUxIwAoKIteXWpVSktvICFmAcBqXV6LKChmISBvS0pVAAAAAgAA 8AFtgPAADIAOgAAARYXHgEXFhUUBw4BBwYHIxUhIicuAScmNTQ3PgE3NjMxOAExNDc+ATc2MzIXHgEXFhcVATMJATMVMzUEjD83NlAXFxYXTjU1PQL8kz01Nk8XFxcXTzY1PSIjd1BQWlJJSXInJw3+mdv+2 7c25MCUQYcHFg5OUA ODlXHBwIAhcXTzY1PTw1Nk8XF1tQUHcjIhwcYUNDTgL+3QFt pOTkwABAAAAAQAAmM7nP18PPPUACwQAAAAAANciZKUAAAAA1yJkpf 9 70FtgPDAAAACAACAAAAAAAAAAEAAAPA 8AAAAW3  3  QW2AAEAAAAAAAAAAAAAAAAAAAAMBAAAAAAAAAAAAAAAAgAAAAQAASAEAADgBAAAwAQAAJ0EAP 9BAAAAAQAAAAFtwAAAAAAAAAKABQAHgAyAEYAjACiAL4BFgE2AY4AAAABAAAADAA8AAMAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAADgCuAAEAAAAAAAEADQAAAAEAAAAAAAIABwCWAAEAAAAAAAMADQBIAAEAAAAAAAQADQCrAAEAAAAAAAUACwAnAAEAAAAAAAYADQBvAAEAAAAAAAoAGgDSAAMAAQQJAAEAGgANAAMAAQQJAAIADgCdAAMAAQQJAAMAGgBVAAMAAQQJAAQAGgC4AAMAAQQJAAUAFgAyAAMAAQQJAAYAGgB8AAMAAQQJAAoANADsd2ViZmxvdy1pY29ucwB3AGUAYgBmAGwAbwB3AC0AaQBjAG8AbgBzVmVyc2lvbiAxLjAAVgBlAHIAcwBpAG8AbgAgADEALgAwd2ViZmxvdy1pY29ucwB3AGUAYgBmAGwAbwB3AC0AaQBjAG8AbgBzd2ViZmxvdy1pY29ucwB3AGUAYgBmAGwAbwB3AC0AaQBjAG8AbgBzUmVndWxhcgBSAGUAZwB1AGwAYQByd2ViZmxvdy1pY29ucwB3AGUAYgBmAGwAbwB3AC0AaQBjAG8AbgBzRm9udCBnZW5lcmF0ZWQgYnkgSWNvTW9vbi4ARgBvAG4AdAAgAGcAZQBuAGUAcgBhAHQAZQBkACAAYgB5ACAASQBjAG8ATQBvAG8AbgAuAAAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==") format('truetype');
   font-weight: normal;
   font-style: normal;
 }
 [class^="w-icon-"],
-[class*=" w-icon-"] {
-  /* use !important to prevent issues with browser extensions that change fonts */
+[class =" w-icon-"] {
+     use !important to prevent issues with browser extensions that change fonts   
   font-family: 'webflow-icons' !important;
   speak: none;
   font-style: normal;
@@ -14,7 +14,7 @@
   font-variant: normal;
   text-transform: none;
   line-height: 1;
-  /* Better Font Rendering =========== */
+     Better Font Rendering ===========   
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
@@ -37,7 +37,7 @@
 .w-icon-file-upload-icon:before {
   content: "\e903";
 }
-* {
+  {
   -webkit-box-sizing: border-box;
   -moz-box-sizing: border-box;
   box-sizing: border-box;
@@ -59,7 +59,7 @@ img {
   vertical-align: middle;
   display: inline-block;
 }
-html.w-mod-touch * {
+html.w-mod-touch   {
   background-attachment: scroll !important;
 }
 .w-block {
@@ -102,7 +102,7 @@ html[data-w-dynpage] [data-w-cloak] {
   color: transparent !important;
 }
 .w-webflow-badge,
-.w-webflow-badge * {
+.w-webflow-badge   {
   position: static;
   left: auto;
   top: auto;
@@ -791,7 +791,7 @@ textarea.w-select {
   border: #758696 solid 1px;
   border-radius: 3px;
 }
-.w-widget-twitter-count-shim * {
+.w-widget-twitter-count-shim   {
   pointer-events: none;
   -webkit-user-select: none;
   -moz-user-select: none;
@@ -1028,8 +1028,8 @@ textarea.w-select {
 }
 .w-slider-arrow-left [class^='w-icon-'],
 .w-slider-arrow-right [class^='w-icon-'],
-.w-slider-arrow-left [class*=' w-icon-'],
-.w-slider-arrow-right [class*=' w-icon-'] {
+.w-slider-arrow-left [class =' w-icon-'],
+.w-slider-arrow-right [class =' w-icon-'] {
   position: absolute;
 }
 .w-slider-arrow-left:focus,
@@ -1135,20 +1135,20 @@ textarea.w-select {
     padding-left: 10px;
   }
 }
-/**
- * ## Note
- * Safari (on both iOS and OS X) does not handle viewport units (vh, vw) well.
- * For example percentage units do not work on descendants of elements that
- * have any dimensions expressed in viewport units. It also doesn’t handle them at
- * all in `calc()`.
- */
-/**
- * Wrapper around all lightbox elements
- *
- * 1. Since the lightbox can receive focus, IE also gives it an outline.
- * 2. Fixes flickering on Chrome when a transition is in progress
- *    underneath the lightbox.
- */
+ 
+   ## Note
+   Safari (on both iOS and OS X) does not handle viewport units (vh, vw) well.
+   For example percentage units do not work on descendants of elements that
+   have any dimensions expressed in viewport units. It also doesn’t handle them at
+   all in `calc()`.
+   
+ 
+   Wrapper around all lightbox elements
+  
+   1. Since the lightbox can receive focus, IE also gives it an outline.
+   2. Fixes flickering on Chrome when a transition is in progress
+      underneath the lightbox.
+   
 .w-lightbox-backdrop {
   color: #000;
   cursor: auto;
@@ -1183,19 +1183,19 @@ textarea.w-select {
   background: rgba(0, 0, 0, 0.9);
   z-index: 2000;
   outline: 0;
-  /* 1 */
+     1   
   opacity: 0;
   -webkit-user-select: none;
   -moz-user-select: none;
   -ms-user-select: none;
   -webkit-tap-highlight-color: transparent;
   -webkit-transform: translate(0, 0);
-  /* 2 */
+     2   
 }
-/**
- * Neat trick to bind the rubberband effect to our canvas instead of the whole
- * document on iOS. It also prevents a bug that causes the document underneath to scroll.
- */
+ 
+   Neat trick to bind the rubberband effect to our canvas instead of the whole
+   document on iOS. It also prevents a bug that causes the document underneath to scroll.
+   
 .w-lightbox-backdrop,
 .w-lightbox-container {
   height: 100%;
@@ -1217,7 +1217,7 @@ textarea.w-select {
   content: "";
   height: 100vh;
 }
-/* .w-lightbox-content */
+   .w-lightbox-content   
 .w-lightbox-group,
 .w-lightbox-group .w-lightbox-view,
 .w-lightbox-group .w-lightbox-view:before {
@@ -1228,33 +1228,33 @@ textarea.w-select {
   display: inline-block;
   vertical-align: middle;
 }
-/*
- * 1. Remove default margin set by user-agent on the <figure> element.
- */
+  
+   1. Remove default margin set by user-agent on the <figure> element.
+   
 .w-lightbox-figure {
   position: relative;
   margin: 0;
-  /* 1 */
+     1   
 }
 .w-lightbox-group .w-lightbox-figure {
   cursor: pointer;
 }
-/**
- * IE adds image dimensions as width and height attributes on the IMG tag,
- * but we need both width and height to be set to auto to enable scaling.
- */
+ 
+   IE adds image dimensions as width and height attributes on the IMG tag,
+   but we need both width and height to be set to auto to enable scaling.
+   
 .w-lightbox-img {
   width: auto;
   height: auto;
   max-width: none;
 }
-/**
- * 1. Reset if style is set by user on "All Images"
- */
+ 
+   1. Reset if style is set by user on "All Images"
+   
 .w-lightbox-image {
   display: block;
   float: none;
-  /* 1 */
+     1   
   max-width: 100vw;
   max-height: 100vh;
 }
@@ -1297,31 +1297,31 @@ textarea.w-select {
   display: none;
   bottom: 0;
   left: 0;
-  /* <svg xmlns="http://www.w3.org/2000/svg" viewBox="-20 0 24 40" width="24" height="40"><g transform="rotate(45)"><path d="m0 0h5v23h23v5h-28z" opacity=".4"/><path d="m1 1h3v23h23v3h-26z" fill="#fff"/></g></svg> */
-  background-image: url("data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9Ii0yMCAwIDI0IDQwIiB3aWR0aD0iMjQiIGhlaWdodD0iNDAiPjxnIHRyYW5zZm9ybT0icm90YXRlKDQ1KSI+PHBhdGggZD0ibTAgMGg1djIzaDIzdjVoLTI4eiIgb3BhY2l0eT0iLjQiLz48cGF0aCBkPSJtMSAxaDN2MjNoMjN2M2gtMjZ6IiBmaWxsPSIjZmZmIi8+PC9nPjwvc3ZnPg==");
+     <svg xmlns="http:  www.w3.org 2000 svg" viewBox="-20 0 24 40" width="24" height="40"><g transform="rotate(45)"><path d="m0 0h5v23h23v5h-28z" opacity=".4" ><path d="m1 1h3v23h23v3h-26z" fill="#fff" >< g>< svg>   
+  background-image: url("data:image svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9Ii0yMCAwIDI0IDQwIiB3aWR0aD0iMjQiIGhlaWdodD0iNDAiPjxnIHRyYW5zZm9ybT0icm90YXRlKDQ1KSI+PHBhdGggZD0ibTAgMGg1djIzaDIzdjVoLTI4eiIgb3BhY2l0eT0iLjQiLz48cGF0aCBkPSJtMSAxaDN2MjNoMjN2M2gtMjZ6IiBmaWxsPSIjZmZmIi8+PC9nPjwvc3ZnPg==");
 }
 .w-lightbox-right {
   display: none;
   right: 0;
   bottom: 0;
-  /* <svg xmlns="http://www.w3.org/2000/svg" viewBox="-4 0 24 40" width="24" height="40"><g transform="rotate(45)"><path d="m0-0h28v28h-5v-23h-23z" opacity=".4"/><path d="m1 1h26v26h-3v-23h-23z" fill="#fff"/></g></svg> */
-  background-image: url("data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9Ii00IDAgMjQgNDAiIHdpZHRoPSIyNCIgaGVpZ2h0PSI0MCI+PGcgdHJhbnNmb3JtPSJyb3RhdGUoNDUpIj48cGF0aCBkPSJtMC0waDI4djI4aC01di0yM2gtMjN6IiBvcGFjaXR5PSIuNCIvPjxwYXRoIGQ9Im0xIDFoMjZ2MjZoLTN2LTIzaC0yM3oiIGZpbGw9IiNmZmYiLz48L2c+PC9zdmc+");
+     <svg xmlns="http:  www.w3.org 2000 svg" viewBox="-4 0 24 40" width="24" height="40"><g transform="rotate(45)"><path d="m0-0h28v28h-5v-23h-23z" opacity=".4" ><path d="m1 1h26v26h-3v-23h-23z" fill="#fff" >< g>< svg>   
+  background-image: url("data:image svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9Ii00IDAgMjQgNDAiIHdpZHRoPSIyNCIgaGVpZ2h0PSI0MCI+PGcgdHJhbnNmb3JtPSJyb3RhdGUoNDUpIj48cGF0aCBkPSJtMC0waDI4djI4aC01di0yM2gtMjN6IiBvcGFjaXR5PSIuNCIvPjxwYXRoIGQ9Im0xIDFoMjZ2MjZoLTN2LTIzaC0yM3oiIGZpbGw9IiNmZmYiLz48L2c+PC9zdmc+");
 }
-/*
- * Without specifying the with and height inside the SVG, all versions of IE render the icon too small.
- * The bug does not seem to manifest itself if the elements are tall enough such as the above arrows.
- * (http://stackoverflow.com/questions/16092114/background-size-differs-in-internet-explorer)
- */
+  
+   Without specifying the with and height inside the SVG, all versions of IE render the icon too small.
+   The bug does not seem to manifest itself if the elements are tall enough such as the above arrows.
+   (http:  stackoverflow.com questions 16092114 background-size-differs-in-internet-explorer)
+   
 .w-lightbox-close {
   right: 0;
   height: 2.6em;
-  /* <svg xmlns="http://www.w3.org/2000/svg" viewBox="-4 0 18 17" width="18" height="17"><g transform="rotate(45)"><path d="m0 0h7v-7h5v7h7v5h-7v7h-5v-7h-7z" opacity=".4"/><path d="m1 1h7v-7h3v7h7v3h-7v7h-3v-7h-7z" fill="#fff"/></g></svg> */
-  background-image: url("data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9Ii00IDAgMTggMTciIHdpZHRoPSIxOCIgaGVpZ2h0PSIxNyI+PGcgdHJhbnNmb3JtPSJyb3RhdGUoNDUpIj48cGF0aCBkPSJtMCAwaDd2LTdoNXY3aDd2NWgtN3Y3aC01di03aC03eiIgb3BhY2l0eT0iLjQiLz48cGF0aCBkPSJtMSAxaDd2LTdoM3Y3aDd2M2gtN3Y3aC0zdi03aC03eiIgZmlsbD0iI2ZmZiIvPjwvZz48L3N2Zz4=");
+     <svg xmlns="http:  www.w3.org 2000 svg" viewBox="-4 0 18 17" width="18" height="17"><g transform="rotate(45)"><path d="m0 0h7v-7h5v7h7v5h-7v7h-5v-7h-7z" opacity=".4" ><path d="m1 1h7v-7h3v7h7v3h-7v7h-3v-7h-7z" fill="#fff" >< g>< svg>   
+  background-image: url("data:image svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9Ii00IDAgMTggMTciIHdpZHRoPSIxOCIgaGVpZ2h0PSIxNyI+PGcgdHJhbnNmb3JtPSJyb3RhdGUoNDUpIj48cGF0aCBkPSJtMCAwaDd2LTdoNXY3aDd2NWgtN3Y3aC01di03aC03eiIgb3BhY2l0eT0iLjQiLz48cGF0aCBkPSJtMSAxaDd2LTdoM3Y3aDd2M2gtN3Y3aC0zdi03aC03eiIgZmlsbD0iI2ZmZiIvPjwvZz48L3N2Zz4=");
   background-size: 18px;
 }
-/**
- * 1. All IE versions add extra space at the bottom without this.
- */
+ 
+   1. All IE versions add extra space at the bottom without this.
+   
 .w-lightbox-strip {
   position: absolute;
   bottom: 0;
@@ -1329,27 +1329,27 @@ textarea.w-select {
   right: 0;
   padding: 0 1vh;
   line-height: 0;
-  /* 1 */
+     1   
   white-space: nowrap;
   overflow-x: auto;
   overflow-y: hidden;
 }
-/*
- * 1. We use content-box to avoid having to do `width: calc(10vh + 2vw)`
- *    which doesn’t work in Safari anyway.
- * 2. Chrome renders images pixelated when switching to GPU. Making sure
- *    the parent is also rendered on the GPU (by setting translate3d for
- *    example) fixes this behavior.
- */
+  
+   1. We use content-box to avoid having to do `width: calc(10vh + 2vw)`
+      which doesn’t work in Safari anyway.
+   2. Chrome renders images pixelated when switching to GPU. Making sure
+      the parent is also rendered on the GPU (by setting translate3d for
+      example) fixes this behavior.
+   
 .w-lightbox-item {
   display: inline-block;
   width: 10vh;
   padding: 2vh 1vh;
   box-sizing: content-box;
-  /* 1 */
+     1   
   cursor: pointer;
   -webkit-transform: translate3d(0, 0, 0);
-  /* 2 */
+     2   
 }
 .w-lightbox-active {
   opacity: .3;
@@ -1379,12 +1379,12 @@ textarea.w-select {
   -ms-transform: translate(-50%, 0);
   transform: translate(-50%, 0);
 }
-/*
- * Spinner
- *
- * Absolute pixel values are used to avoid rounding errors that would cause
- * the white spinning element to be misaligned with the track.
- */
+  
+   Spinner
+  
+   Absolute pixel values are used to avoid rounding errors that would cause
+   the white spinning element to be misaligned with the track.
+   
 .w-lightbox-spinner {
   position: absolute;
   top: 50%;
@@ -1410,9 +1410,9 @@ textarea.w-select {
   border-bottom-color: #fff;
   border-radius: 50%;
 }
-/*
- * Utility classes
- */
+  
+   Utility classes
+   
 .w-lightbox-hide {
   display: none;
 }
@@ -1428,7 +1428,7 @@ textarea.w-select {
   .w-lightbox-view:before {
     height: 96vh;
   }
-  /* .w-lightbox-content */
+     .w-lightbox-content   
   .w-lightbox-group,
   .w-lightbox-group .w-lightbox-view,
   .w-lightbox-group .w-lightbox-view:before {
@@ -1510,7 +1510,7 @@ textarea.w-select {
   opacity: 0.6;
 }
 .w-richtext figure div {
-  /* fix incorrectly sized selection border in the data manager */
+     fix incorrectly sized selection border in the data manager   
   font-size: 0px;
   color: transparent;
 }
@@ -1567,9 +1567,9 @@ textarea.w-select {
 }
 .w-richtext figure.w-richtext-align-fullwidth > div {
   display: inline-block;
-  /* padding-bottom is used for aspect ratios in video figures
-      we want the div to inherit that so hover/selection borders in the designer-canvas
-      fit right*/
+     padding-bottom is used for aspect ratios in video figures
+      we want the div to inherit that so hover selection borders in the designer-canvas
+      fit right  
   padding-bottom: inherit;
 }
 .w-richtext figure.w-richtext-align-fullwidth > figcaption {

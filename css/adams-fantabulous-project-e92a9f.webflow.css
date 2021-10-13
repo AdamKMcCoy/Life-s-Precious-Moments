@@ -84,7 +84,7 @@ img {
   position: relative;
   height: 500px;
   padding-top: 184px;
-  background-image: linear-gradient(135deg, rgba(30, 33, 33, 0.82) 1%, rgba(32, 32, 32, 0.14) 98%), url('../images/photo-1439189741837-58720e8d82d5.jpg');
+  background-image: linear-gradient(135deg, rgba(30, 33, 33, 0.82) 1%, rgba(32, 32, 32, 0.14) 98%), url('.. images photo-1439189741837-58720e8d82d5.jpg');
   background-position: 0px 0px, 50% 50%;
   background-size: auto, cover;
 }
@@ -191,8 +191,8 @@ img {
   padding-bottom: 0px;
   border-bottom: 1px none #000;
   background-color: #4d565d;
-  background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(35, 47, 56, 0.47)), color-stop(99%, rgba(35, 47, 56, 0.31))), url('../images/footer-bg.jpg');
-  background-image: linear-gradient(180deg, rgba(35, 47, 56, 0.47), rgba(35, 47, 56, 0.31) 99%), url('../images/footer-bg.jpg');
+  background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(35, 47, 56, 0.47)), color-stop(99%, rgba(35, 47, 56, 0.31))), url('.. images footer-bg.jpg');
+  background-image: linear-gradient(180deg, rgba(35, 47, 56, 0.47), rgba(35, 47, 56, 0.31) 99%), url('.. images footer-bg.jpg');
   background-position: 0px 0px, 50% 0px;
   background-size: auto, cover;
 }
@@ -414,7 +414,7 @@ img {
   margin-top: 0px;
   margin-bottom: 0px;
   background-color: #d6d6d6;
-  background-image: url('https://d3e54v103j8qbb.cloudfront.net/img/background-image.svg');
+  background-image: url('https:  d3e54v103j8qbb.cloudfront.net img background-image.svg');
   background-position: 50% 50%;
   background-size: cover;
 }
@@ -499,7 +499,7 @@ img {
   margin-top: 0px;
   margin-bottom: 0px;
   border-radius: 3px;
-  background-image: url('../images/3f4eb74a.jpg');
+  background-image: url('.. images 3f4eb74a.jpg');
   background-position: 50% 50%;
   background-size: cover;
 }
@@ -573,19 +573,19 @@ img {
   position: relative;
   height: 300px;
   padding-top: 125px;
-  background-image: url('../images/bridges.jpg');
+  background-image: url('.. images bridges.jpg');
   background-position: 50% 50%;
   background-size: cover;
   text-align: center;
 }
 
 .inner-hero.about-page {
-  background-image: url('../images/photo-1438636740648-37d6fed50dad.jpg');
+  background-image: url('.. images photo-1438636740648-37d6fed50dad.jpg');
   background-size: cover;
 }
 
 .inner-hero.category {
-  background-image: url('../images/photo-1413977886085-3bbbf9a7cf6e.jpg');
+  background-image: url('.. images photo-1413977886085-3bbbf9a7cf6e.jpg');
   background-size: cover;
 }
 
@@ -648,7 +648,7 @@ img {
 
 .hero-blog {
   height: 300px;
-  background-image: url('https://d3e54v103j8qbb.cloudfront.net/img/background-image.svg');
+  background-image: url('https:  d3e54v103j8qbb.cloudfront.net img background-image.svg');
   background-position: 50% 50%;
   background-size: cover;
 }
@@ -814,7 +814,7 @@ img {
   height: 140px;
   padding: 57px 30px 30px;
   border-radius: 3px;
-  background-image: url('https://d3e54v103j8qbb.cloudfront.net/img/background-image.svg');
+  background-image: url('https:  d3e54v103j8qbb.cloudfront.net img background-image.svg');
   background-position: 50% 50%;
   background-size: cover;
   color: #fff;
@@ -860,7 +860,7 @@ img {
   padding-top: 7px;
   padding-bottom: 7px;
   padding-left: 26px;
-  background-image: url('../images/social-18.svg');
+  background-image: url('.. images social-18.svg');
   background-position: 0px 50%;
   background-size: 15px;
   background-repeat: no-repeat;
@@ -872,12 +872,12 @@ img {
 }
 
 .social-text.facebook {
-  background-image: url('../images/social-03.svg');
+  background-image: url('.. images social-03.svg');
   background-size: 15px;
 }
 
 .social-text.instagram {
-  background-image: url('../images/social-07.svg');
+  background-image: url('.. images social-07.svg');
   background-size: 15px;
 }
 
