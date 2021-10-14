@@ -47,7 +47,7 @@ Stores pictuers and you can share them
 
 # Include Credits
 
-   Adam McCoy  https:  github.com AdamKMcCoy Life-s-Precious-Moments
+   AdammcCoy  https:  github.com AdamKMcCoy Life-s-Precious-Moments
 
 # License
 
