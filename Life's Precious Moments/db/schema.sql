@@ -1,3 +1,3 @@
-DROP DATABASE IF EXISTS aquarium;
+DROP DATABASE IF EXISTS LifesPreciouseMoments;
 
-CREATE DATABASE aquarium;
+CREATE DATABASE LifesPreciouseMoments;

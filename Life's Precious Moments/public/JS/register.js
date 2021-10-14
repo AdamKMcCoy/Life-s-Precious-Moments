@@ -18,7 +18,7 @@ async function signupFormHandler(event) {
     });
 
     if (response.ok) {
-      document.location.replace('/aquarium');
+      document.location.replace('/LifesPreciouseMoments');
     } else {
       alert(response.statusText);
     }

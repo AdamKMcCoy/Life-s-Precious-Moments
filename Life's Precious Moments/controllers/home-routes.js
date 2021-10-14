@@ -3,7 +3,7 @@ const sequelize = require('../config/connection');
 const { Post, User, Comment} = require('../models');
 
 // get all posts for homepage
-router.get('/aquarium', (req, res) => {
+router.get('/LifesPreciouseMoments', (req, res) => {
   console.log('======================');
   Post.findAll({
     attributes: [
@@ -30,7 +30,7 @@ router.get('/aquarium', (req, res) => {
     .then(dbPostData => {
       const posts = dbPostData.map(post => post.get({ plain: true }));
 
-      res.render('aquarium', {
+      res.render('LifesPreciouseMoments', {
         posts,
         loggedIn: req.session.loggedIn
       });
@@ -91,7 +91,7 @@ router.get('/post/:id', (req, res) => {
 
 router.get('/', (req, res) => {
   if (req.session.loggedIn) {
-    res.redirect('/aquarium');
+    res.redirect('/LifesPreciouseMoments');
   }
 
   res.render('landing');

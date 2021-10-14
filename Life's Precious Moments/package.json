@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/crtijerina/Project-2.git"
+    "url": "https://github.com/AdamKMcCoy/Life-s-Precious-Moments.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/crtijerina/Project-2/issues"
+    "url": "https://github.com/AdamKMcCoy/Life-s-Precious-Moments/issues"
   },
-  "homepage": "https://github.com/crtijerina/Project-2#readme",
+  "homepage": "",
   "dependencies": {
     "bcrypt": "^5.0.1",
     "bulma": "^0.9.3",

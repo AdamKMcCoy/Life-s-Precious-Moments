@@ -43,7 +43,7 @@ app.use(require('./controllers/'));
 
 
 
-// app.post('/aquarium.handlebars',
+// app.post('/LifesPreciouseMoments.handlebars',
 //   passport.authenticate('local', { successRedirect: '/',
 //                                    failureRedirect: '/login',
 //                                    failureFlash: true })
@@ -76,13 +76,13 @@ app.use(require('./controllers/'));
 // ROUTER
 // ===========================================================
 // app.get('/', (req, res) => {
-//     res.render('landing', { name: "Aquarium"});
+//     res.render('landing', { name: "LifesPreciouseMoments"});
 //   });
-//   app.get('/aquarium', (req, res) => {
-//     res.render('aquarium');
+//   app.get('/LifesPreciouseMoments', (req, res) => {
+//     res.render('LifesPreciouseMoments');
 //   });
 //   app.get('/register', (req, res) => {
-//     res.render('register', { name: "Aquarium"});
+//     res.render('register', { name: "LifesPreciouseMoments"});
 //   });
 //   app.post('/register', async (req, res) => {
 //   try{
@@ -99,7 +99,7 @@ app.use(require('./controllers/'));
 //   console.log('from server.js file ' +users)
 //   });
 //   app.post('/', passport.authenticate('local', {
-//     successRedirect: '/aquarium',
+//     successRedirect: '/LifesPreciouseMoments',
 //     failureRedirect: '/',
 //     failureFlash: true 
 //   }))
