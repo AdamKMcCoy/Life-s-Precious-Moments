@@ -1,0 +1,38 @@
+    
+    <section>
+      
+      <div class="hero-section wf-section">
+        <div class="hero-content w-container">
+          <div style="-webkit-transform:translate3d(0, -30PX, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, -30PX, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, -30PX, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, -30PX, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);opacity:0" class="hero-heading">Let&#x27;s do it together.</div>
+          <div style="opacity:0;-webkit-transform:translate3d(0, 30PX, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 30PX, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 30PX, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 30PX, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0)" class="hero-subheading">We travel the world in search of stories. Come along for the ride.</div>
+          <p> Welcome to Aquarium!</p>
+          <a href="#Latest-post" style="opacity:0" class="button w-button">View Latest Posts</a>
+        </div>
+      </div>
+      <div>
+        <p class="post-title">Recent Posts:</p>
+      </div>
+      
+
+      <div class="category-section wf-section">
+        <div class="w-container">
+          <div class="w-dyn-list">
+            <div role="list" class="w-clearfix w-dyn-items w-row">
+              <div role="listitem" class="category-wrapper w-dyn-item w-col w-col-2">
+                <a href="#" class="category-link"></a>
+              </div>
+            </div>
+            <div class="w-dyn-empty">
+              {{#each posts}}
+              <p class="posts" >{{title}} 
+                <br>
+                {{contents}}
+                <br>
+                {{user.username}}</p>
+              {{/each}}
+            </div>
+          </div>
+        </div>
+      </div>
+     
+</section>
