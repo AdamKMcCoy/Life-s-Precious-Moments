@@ -3,7 +3,7 @@
 
 # What was My motivation?
 
-Becouse I watched my wife delete pictuers of my kids 
+Becouse I watched my wife delete pictuers of are kids 
 
 # What problem does it solve?
 
@@ -11,26 +11,29 @@ You dont't have to delete pic's just becouse you dont have space for them and yo
 
 # What did I learn?
 
-Everything
+i learned that it is alot more work then i expected regarding make sure everything works together 
 
 # What makes my project stand out?
 
-It is going to be a semi private photo gallery
+It is going to be a semi private photo gallery that you can save pic and videos for safe keeping
 
 # What my application does,
 
 Stores pictuers and you can share them
 
 # Technologies 
-
-
-
+bootstrap
+handlebars 
+fontawesome
+insomnia
 # Features section 
+plainig on adding a donations or even monthly prices 
 
 
 
 # Some of the challenges I faced and features I hope to implement in the future.
-
+i thought i save but it didnt 
+along with getting cohsoun 
 
 
 # Table of Contents 
